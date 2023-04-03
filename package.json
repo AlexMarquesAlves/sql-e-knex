@@ -1,0 +1,26 @@
+{
+  "name": "sql-e-knex",
+  "version": "1.0.0",
+  "description": "Repositório da Seção 32, Knexjs, SQL Query Builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexMarquesAlves/sql-e-knex.git"
+  },
+  "keywords": [
+    "Knexjs",
+    "Knex",
+    "SQL",
+    "Query",
+    "Builder"
+  ],
+  "author": "¡Duque",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexMarquesAlves/sql-e-knex/issues"
+  },
+  "homepage": "https://github.com/AlexMarquesAlves/sql-e-knex#readme"
+}

@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/AlexMarquesAlves/sql-e-knex/issues"
   },
-  "homepage": "https://github.com/AlexMarquesAlves/sql-e-knex#readme"
+  "homepage": "https://github.com/AlexMarquesAlves/sql-e-knex#readme",
+  "dependencies": {
+    "knex": "^2.4.2",
+    "mysql2": "^3.2.0"
+  }
 }

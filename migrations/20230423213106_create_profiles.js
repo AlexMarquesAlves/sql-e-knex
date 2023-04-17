@@ -13,6 +13,7 @@ exports.up = function (knex) {
       .references("users.id")
       .onDelete("CASCADE")
       .onUpdate("CASCADE");
+    table.timestamps(true, true); // 3
   });
 };
 
